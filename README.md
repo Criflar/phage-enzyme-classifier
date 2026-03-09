@@ -1,5 +1,3 @@
-# phage-enzyme-classifier
-
 # PhageLytic-ESM: Deep Learning for Bacteriophage Enzyme Classification
 
 ## Overview
