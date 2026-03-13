@@ -10,3 +10,4 @@ torchvision
 torchaudio
 fair-esm
 tqdm
+requests

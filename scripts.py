@@ -1,5 +1,7 @@
+from pathlib import Path
 from Bio.SeqUtils.ProtParam import ProteinAnalysis
 import pandas as pd
+
 
 def extract_features(sequence):
     """
