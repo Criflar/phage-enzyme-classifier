@@ -3,6 +3,8 @@ pandas
 biopython
 seaborn
 matplotlib
+scikit-learn
+xgboost
 torch
 torchvision
 torchaudio
