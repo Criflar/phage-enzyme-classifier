@@ -11,7 +11,7 @@ Data is curated from the **PhaLP 2.0 Database** and strictly filtered by Enzyme 
 * **Glycosylase (Lysozyme):** EC `3.2.1.17`
 * **Peptidase:** `M15` and `M23` metalloendopeptidase domains
 
-*(Note: Raw sequence data is stored locally in the `data/` directory and is intentionally excluded from this repository).*
+*(Note: Raw sequence data is stored locally in the `data/raw` directory. The processed data is also in the directory. Moreover, the features extracted by the ESM-2 model are in the `X_esm_features.npy` and `y_labels.npy` file. There is a code block to load the files instead of needing to extract the features yourself.).*
 
 ## Tech Stack & Architecture
 * **Feature Extraction:** Pre-trained ESM-2 (Evolutionary Scale Modeling) Transformer.
