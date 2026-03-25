@@ -29,4 +29,5 @@ Data is curated from the **PhaLP 2.0 Database** and strictly filtered by Enzyme 
 1. Set up a virtual environment if you wish.
 2. Run pip install -r requirements.txt
 3. Run the notebook.
+
 Note: The features and the dataset is already included upon pulling the repository, but you can generate them yourself.
