@@ -11,3 +11,4 @@ torchaudio
 fair-esm
 tqdm
 requests
+transformers

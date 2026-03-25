@@ -24,3 +24,9 @@ Data is curated from the **PhaLP 2.0 Database** and strictly filtered by Enzyme 
 2. **Embedding Generation:** Transforming variable-length biological text sequences into fixed-length numerical vectors using ESM-2.
 3. **Cluster-Aware Splitting:** Grouping training and test sets by Cluster Name to prevent sequence data leakage and artificially inflated accuracy metrics.
 4. **Supervised Classification:** Training and hyperparameter tuning of downstream classifiers to achieve maximum predictive performance.
+
+## How to run
+1. Set up a virtual environment if you wish.
+2. Run pip install -r requirements.txt
+3. Run the notebook.
+Note: The features and the dataset is already included upon pulling the repository, but you can generate them yourself.
